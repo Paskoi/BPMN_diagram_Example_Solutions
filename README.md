@@ -1,9 +1,6 @@
-Zadanie 1: Proces Reklamacji
+Zadanie 1: Ekspres do kawy
 
-Klient składa reklamację. System musi sprawdzić, czy produkt jest jeszcze na gwarancji. Jeśli nie – system automatycznie odrzuca reklamację i wysyła maila. Jeśli tak – uruchamiają się dwie równoległe ścieżki:
-- Magazyn sprawdza dostępność części zamiennych.
-- Dział techniczny wstępnie ocenia usterkę na podstawie zdjęć.
-Dopiero gdy obie te czynności się zakończą, Kierownik Serwisu podejmuje decyzję o naprawie lub wymianie. Wymiana wymaga dodatkowej akceptacji Księgowości, jeśli koszt przekracza 1000 zł.
+Pełny proces obsługi ekspresu do kawy z perspektywy interakcji użytkownika z maszyną.
 
 Zadanie 2: Wniosek Urlopowy
 
